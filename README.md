@@ -3,7 +3,7 @@
 
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Amjad+Raza..;Nice+To+Meet+You+....&center=true"></a></p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Nagma+Nigar..;Nice+To+Meet+You+....&center=true"></a></p>
 
     
 ## 👋 About Me 
@@ -31,18 +31,15 @@ I'm a *Full-Stack Developer* focused on Python Development and Software Engineer
 
 
 ## 📚 Education
-### 🎓 Master of Computer Application (MCA)  
-📍 *Harcourt Butler Technical University, Kanpur (HBTU)* | *2022-2024* | *CGPA: 7.8*  
+### 🎓 Bachelor of technology (B.Tech)(CSE) 
+📍 *Lloyd Institute of Engineering and Technology (AKTU)* | *2021-2024* | *CGPA: 7.5*  
 
-### 🎓 Bachelor of Computer Application (BCA)  
-📍 *MDU Rohtak(SDIMT Faridabad)* | *2018-2021* | *Percentage: 69.63%*  
+### 🎓 Diploma in Electronic and Communication (Polytechnic)  
+📍 *Jamia Millia Islamia* | *2017-2020* | *Percentage: 80%*  
 
 
 ##  📞 Connect with me:
 <p align="left">
-<a href="https://www.instagram.com/raza_amjad786" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
-</a>
 <a href="https://www.linkedin.com/in/your_username" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
