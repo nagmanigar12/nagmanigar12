@@ -11,23 +11,14 @@ I'm a *Full-Stack Developer* focused on Python Development and Software Engineer
 
 
 ## 💼 Work Experience
-### 💻 Software Developer
-📍 *Oxygen to Innovation | May 2025 – Present*
- - Worked on simulation and game development for educational, medical, and defence domains.
- - Contributed to product development, prototyping, and feature testing.
- - Participated in daily stand-ups and weekly reviews for progress tracking.
- - Assisted in product demonstrations and internal testing phases.
- - Collaborated with teams in a goal-driven, project-based environment.
-
-
 ### 🧑‍💻 Full Stack Intern
-📍 *TechAhead Software | July 2024 – Jan 2025*
- - Focused on backend development using Python, Django, and SQL, ensuring efficient database management and API development.
- - Developed and optimized RESTful APIs for seamless frontend-backend integration.
- - Implemented authentication and authorization mechanisms using Django Rest Framework (DRF) and Tokens.
- - Improved query performance by optimizing SQL queries and indexing.
- - Collaborated in agile development workflows, participating in code reviews and team discussions.
- - Worked on frontend integration using React.js, HTML, and Tailwind CSS.
+📍 *Business Curative* | March 2025 – June 2025
+## Frontend Developer Intern
+-Designed and developed an aesthetic, user-friendly e-commerce website focused on visual appeal and responsiveness.
+-Utilized HTML, CSS, JavaScript, and Tailwind CSS to build clean and modern UI components.
+-Ensured responsive design across devices and browsers to improve user experience.
+-Collaborated with designers and backend developers for seamless integration of UI with APIs.
+-Gained hands-on experience with version control (Git) and deployment best practices.--
 
 
 ## 📚 Education
@@ -40,7 +31,7 @@ I'm a *Full-Stack Developer* focused on Python Development and Software Engineer
 
 ##  📞 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/your_username" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/nagma-nigar-462155273/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 </p>
@@ -105,10 +96,7 @@ I'm a *Full-Stack Developer* focused on Python Development and Software Engineer
   <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
@@ -132,27 +120,23 @@ I'm a *Full-Stack Developer* focused on Python Development and Software Engineer
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amjadraza19&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-## 🏆 Achievements  
-- 🎯 *NIMCET 2022* – Secured *AIR 944* in the national-level MCA entrance exam.
+![](https://github-profile-trophy.vercel.app/?username=nagmanigar12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## Build with me
 💡 Always exploring new technologies and improving my projects!  
 📫 Let's connect and build something awesome together.  
-- 📫 How to reach me *amjadraza1912@gmail.com*
+- 📫 How to reach me *nnquasimi@gmail.com*
 
 
 ## 🚀 What I Do:
 - Develop dynamic and efficient web applications
-- Work with Python, Django, React.js, JavaScript, and more
+- Work with Python,React.js, JavaScript, and more
 - Manage live projects and contribute to personal and client-based projects
 - Build and maintain scalable, high-performance websites
 - Continuously enhance my technical skills and explore new technologies
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amjadraza19&label=Profile%20views&color=0e75b6&style=flat" alt="amjadraza1912" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nagmanigar12&label=Profile%20views&color=0e75b6&style=flat" alt="nagmanigar12" /> </p>
 
 <!--START_SECTION:waka-->
 
